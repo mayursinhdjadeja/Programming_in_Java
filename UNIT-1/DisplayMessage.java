@@ -1,4 +1,6 @@
-// Write a simple java program to display message.
+/* 
+ *Write a simple java program to display message.
+*/
 
 public class DisplayMessage
 {
