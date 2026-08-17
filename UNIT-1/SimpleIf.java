@@ -12,7 +12,8 @@ class SimpleIf
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
 
-        if (num > 0) {
+        if (num > 0) 
+        {
             System.out.println("The number is positive.");
         }
 
