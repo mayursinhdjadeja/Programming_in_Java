@@ -15,7 +15,7 @@ class Dog implements Animal
     }
 }
 
-public class InterfaceDemo 
+class InterfaceDemo 
 {
     public static void main(String args[]) 
     {

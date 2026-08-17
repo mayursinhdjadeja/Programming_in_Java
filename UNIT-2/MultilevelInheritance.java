@@ -26,7 +26,7 @@ class Son extends Father
     }
 }
 
-public class MultilevelInheritance 
+class MultilevelInheritance 
 {
     public static void main(String args[]) 
     {
