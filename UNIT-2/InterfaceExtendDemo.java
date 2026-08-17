@@ -24,7 +24,7 @@ class Demo implements B
     }
 }
 
-public class InterfaceExtendDemo 
+class InterfaceExtendDemo 
 {
     public static void main(String args[]) 
     {

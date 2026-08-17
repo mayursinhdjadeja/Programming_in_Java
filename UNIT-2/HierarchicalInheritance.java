@@ -2,14 +2,16 @@
  * Write a java program to use Hierarchical inheritance.
 */
 
-class Father {
+class Father 
+{
     void method1() 
     { 
         System.out.println("Father"); 
     }
 }
 
-class Son1 extends Father {
+class Son1 extends Father 
+{
     void method2() 
     { 
         System.out.println("Son1"); 
@@ -24,7 +26,7 @@ class Son2 extends Father
     }
 }
 
-public class HierarchicalInheritance 
+class HierarchicalInheritance 
 {
     public static void main(String args[]) 
     {

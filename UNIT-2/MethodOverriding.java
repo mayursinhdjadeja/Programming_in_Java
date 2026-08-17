@@ -6,7 +6,8 @@ class Father
 {
     void display() 
     { 
-        System.out.println("Father"); }
+        System.out.println("Father"); 
+    }
 }
 
 class Son extends Father 
@@ -17,7 +18,7 @@ class Son extends Father
     }
 }
 
-public class MethodOverriding 
+class MethodOverriding 
 {
     public static void main(String args[]) 
     {

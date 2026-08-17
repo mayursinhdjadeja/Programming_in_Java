@@ -18,7 +18,7 @@ class Son extends Father
     }
 }
 
-public class SimpleInheritance 
+class SimpleInheritance 
 {
     public static void main(String args[]) 
     {
