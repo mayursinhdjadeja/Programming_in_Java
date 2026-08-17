@@ -2,7 +2,7 @@
  * Write a java program to perform different arithmetic operations. (Using Command Line args)
 */
 
-public class ArithmeticOperations 
+class ArithmeticOperations 
 {
     public static void main(String args[]) 
     {

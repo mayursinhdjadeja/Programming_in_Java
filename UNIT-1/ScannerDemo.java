@@ -3,9 +3,9 @@
 */
 
 import java.util.Scanner;
-public class ScannerDemo 
+class ScannerDemo 
 {
-    public static void main(String[] args) 
+    public static void main(String args[]) 
     {
         Scanner scanner = new Scanner(System.in);
 
@@ -17,8 +17,6 @@ public class ScannerDemo
 
         System.out.print("Are you a student? (true/false): ");
         boolean isStudent = scanner.nextBoolean();
-
-        scanner.nextLine();
 
         System.out.print("Enter your full name (string): ");
         String name = scanner.nextLine();

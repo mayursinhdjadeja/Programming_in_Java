@@ -2,7 +2,7 @@
  * Write a java program to find ODD or EVEN number using command line argument.
 */
 
-public class OddEven 
+class OddEven 
 {
     public static void main(String args[]) 
     {
@@ -10,11 +10,11 @@ public class OddEven
 
         if (num % 2 == 0)
         {
-            System.out.println(num + " is EVEN.");
+            System.out.println("EVEN.");
         }
         else
         {
-            System.out.println(num + " is ODD.");
+            System.out.println("ODD.");
         }
     }
 }

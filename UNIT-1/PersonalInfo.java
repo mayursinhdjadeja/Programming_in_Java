@@ -3,7 +3,7 @@
 */
 
 import java.util.Scanner;
-public class PersonalInfo 
+class PersonalInfo 
 {
     public static void main(String args[]) 
     {
@@ -14,7 +14,6 @@ public class PersonalInfo
 
         System.out.print("Enter your age: ");
         int age = scanner.nextInt();
-        scanner.nextLine(); 
 
         System.out.print("Enter your email address: ");
         String email = scanner.nextLine();

@@ -3,7 +3,7 @@
 */
 
 import java.util.Scanner;
-public class PrintNameLoop 
+class PrintNameLoop 
 {
     public static void main(String args[]) 
     {
@@ -14,7 +14,7 @@ public class PrintNameLoop
 
         for (int i = 1; i <= 10; i++) 
         {
-            System.out.println(i + ". " + name);
+            System.out.println(name);
         }
 
         scanner.close();

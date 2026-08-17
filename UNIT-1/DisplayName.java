@@ -3,7 +3,7 @@
 */
 
 import java.util.Scanner;
-public class DisplayName 
+class DisplayName 
 {
     public static void main(String args[]) 
     {
@@ -12,7 +12,7 @@ public class DisplayName
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
 
-        System.out.println("Hello, " + name + "!");
+        System.out.println(name);
 
         scanner.close();
     }

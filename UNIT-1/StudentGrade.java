@@ -3,7 +3,7 @@
 */
 
 import java.util.Scanner;
-public class StudentGrade 
+class StudentGrade 
 {
     public static void main(String args[]) 
     {
@@ -13,15 +13,15 @@ public class StudentGrade
 
         if (marks >= 90)
         {
+            System.out.println("Grade: 0");
+        } 
+        else if (marks >= 80) 
+        {
+            System.out.println("Grade: A+");
+        } 
+        else if (marks >= 70) 
+        {
             System.out.println("Grade: A");
-        } 
-        else if (marks >= 75) 
-        {
-            System.out.println("Grade: B");
-        } 
-        else if (marks >= 60) 
-        {
-            System.out.println("Grade: C");
         } 
         else if (marks >= 40) 
         {
