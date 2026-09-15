@@ -1,5 +1,5 @@
 /*
- * 20. Write a java program to perform overriding of abstract class.
+ * Write a java program to perform overriding of abstract class.
 */
 
 abstract class A 
