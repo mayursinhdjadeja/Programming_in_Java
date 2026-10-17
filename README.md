@@ -1,19 +1,6 @@
-# Programming in Java
-
-A well-organized collection of **Java practical programs** for BCA Semester 3.  
-
----
-
 ## 📌 About This Repository
-
+A well-organized collection of **Java practical programs** for BCA Semester 3.
 This repository contains 50 practicals covering core Java concepts, OOP, exception handling, multithreading, and JDBC - neatly arranged in unit-wise folders.
-
-### ✨ Highlights
-
-- 📂 Unit-wise folder structure
-- 🧠 Beginner-friendly Java programs
-- 🧵 Covers OOP, Exception Handling, Multithreading & JDBC
-- 🗄️ Includes database connectivity practicals
 
 ---
 
